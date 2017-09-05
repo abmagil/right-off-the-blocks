@@ -1,0 +1,7 @@
+# Right Off The bl.ocks
+
+[bl.ocks.org](bl.ocks.org) is a site which hosts small D3 programs. For any given bl.ocks.org page, there is a backing gist on GitHub.
+
+This is a Chrome extension which will download the backing gist from GitHub directly to a configurable directory on your local computer.
+
+*NOTE: This is a download, not a `git clone`.*
